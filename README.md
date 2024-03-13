@@ -3,7 +3,12 @@
 
 :construction: 
 
-:poop:
+<code style="color : blue">Catching Up</code>
+<span style="color:orange;">Catching   Up</span>
+
+${\color{orange}Catching \space Up}$
+
+$${\color{red}Getting \space \color{lightblue}To Know \space \color{orange}Me}$$
 
 :pencil2:
 
