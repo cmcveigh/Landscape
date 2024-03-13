@@ -12,7 +12,14 @@ $${\color{red}Getting \space \color{lightblue}To Know \space \color{orange}Me}$$
 
 :pencil2:
 
+$${\color{red}Testing \space \color{green}Testing \space \color{blue}Testing}$$
 
+> [!TIP]
+> Helpful tips to come ....
+
+
+> [!WARNING]
+> Any Warnings would go here 
 
 ``` mermaid
 pie title Development Skills By Years Spent
