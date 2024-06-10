@@ -19,7 +19,23 @@ $${\color{red}Testing \space \color{green}Testing \space \color{blue}Testing}$$
 
 
 > [!WARNING]
-> Any Warnings would go here 
+> Any Warnings would go here
+
+## Simple alerts
+> [!NOTE]
+> This is a note.
+
+> [!TIP]
+> This is a tip. (Supported since 14 Nov 2023)
+
+> [!IMPORTANT]
+> Crutial information comes here.
+
+> [!CAUTION]
+> Negative potential consequences of an action. (Supported since 14 Nov 2023)
+
+> [!WARNING]
+> Critical content comes here.
 
 ``` mermaid
 pie title Development Skills By Years Spent
