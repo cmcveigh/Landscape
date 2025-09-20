@@ -29,7 +29,7 @@ $${\color{red}Testing \space \color{green}Testing \space \color{blue}Testing}$$
 > This is a tip. (Supported since 14 Nov 2023)
 
 > [!IMPORTANT]
-> Crutial information comes here.
+> Crucial information comes here.
 
 > [!CAUTION]
 > Negative potential consequences of an action. (Supported since 14 Nov 2023)
